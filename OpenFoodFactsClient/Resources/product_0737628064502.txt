@@ -1,0 +1,1291 @@
+{
+  "code": "0737628064502",
+  "status": 1,
+  "status_verbose": "product found",
+  "product": {
+    "languages_hierarchy": [
+      "en:english"
+    ],
+    "expiration_date_debug_tags": [],
+    "states_hierarchy": [
+      "en:to-be-checked",
+      "en:complete",
+      "en:nutrition-facts-completed",
+      "en:ingredients-completed",
+      "en:expiration-date-to-be-completed",
+      "en:packaging-code-to-be-completed",
+      "en:characteristics-completed",
+      "en:categories-completed",
+      "en:brands-completed",
+      "en:packaging-completed",
+      "en:quantity-completed",
+      "en:product-name-completed",
+      "en:photos-validated",
+      "en:photos-uploaded"
+    ],
+    "ingredients_n": 18,
+    "ciqual_food_name_tags": [
+      "unknown"
+    ],
+    "countries_debug_tags": [],
+    "traces_tags": [
+      "en:peanuts"
+    ],
+    "allergens_from_ingredients": "",
+    "id": "737628064502",
+    "data_quality_warnings_tags": [
+      "en:nutrition-value-very-high-for-category-sugars"
+    ],
+    "last_edit_dates_tags": [
+      "2020-04-22",
+      "2020-04",
+      "2020"
+    ],
+    "manufacturing_places_debug_tags": [],
+    "manufacturing_places": "",
+    "rev": 19,
+    "emb_codes_tags": [],
+    "data_quality_errors_tags": [],
+    "last_modified_by": "org-database-usda",
+    "pnns_groups_1": "Cereals and potatoes",
+    "emb_codes": "",
+    "generic_name_en_debug_tags": [],
+    "countries_imported": "United States",
+    "ingredients_percent_analysis": 1,
+    "countries_lc": "en",
+    "nutrition_data_per": "100g",
+    "labels_prev_hierarchy": [
+      "en:gluten-free"
+    ],
+    "checkers_tags": [],
+    "origins": "Thailand",
+    "codes_tags": [
+      "code-13",
+      "0737628064xxx",
+      "073762806xxxx",
+      "07376280xxxxx",
+      "0737628xxxxxx",
+      "073762xxxxxxx",
+      "07376xxxxxxxx",
+      "0737xxxxxxxxx",
+      "073xxxxxxxxxx",
+      "07xxxxxxxxxxx",
+      "0xxxxxxxxxxxx"
+    ],
+    "ingredients_ids_debug": [
+      "rice-noodles",
+      "rice",
+      "water",
+      "seasoning-packet",
+      "peanut",
+      "sugar",
+      "salt",
+      "corn-starch",
+      "spices",
+      "chili",
+      "cinnamon",
+      "pepper",
+      "cumin",
+      "clove",
+      "hydrdlyzed-soy-protein",
+      "green-onions",
+      "citric-acid",
+      "peanut-oil",
+      "sesame-oil",
+      "natural-flavor"
+    ],
+    "compared_to_category": "en:noodles",
+    "vitamins_prev_tags": [],
+    "_keywords": [
+      "kit",
+      "plant-based",
+      "thai",
+      "food",
+      "and",
+      "simply",
+      "gluten-free",
+      "beverage",
+      "noodle",
+      "cereal",
+      "peanut",
+      "thailand",
+      "their",
+      "stir-fry",
+      "rice",
+      "potatoe",
+      "include",
+      "asia",
+      "seasoning",
+      "kitchen",
+      "product"
+    ],
+    "image_ingredients_url": "https://static.openfoodfacts.org/images/products/073/762/806/4502/ingredients_en.10.400.jpg",
+    "ingredients_analysis_tags": [
+      "en:palm-oil-content-unknown",
+      "en:vegan-status-unknown",
+      "en:vegetarian-status-unknown"
+    ],
+    "product_name_en": "Thai peanut noodle kit includes stir-fry rice noodles & thai peanut seasoning",
+    "packaging_tags": [
+      "cellophane",
+      "carton"
+    ],
+    "unique_scans_n": 1,
+    "additives_old_tags": [
+      "en:e330",
+      "en:e551"
+    ],
+    "nutriscore_data": {
+      "is_fat": 0,
+      "positive_points": 6,
+      "fiber": 1.9,
+      "saturated_fat_value": 1.9,
+      "grade": "c",
+      "score": 4,
+      "is_beverage": 0,
+      "saturated_fat_ratio": 24.9674902470741,
+      "proteins_points": 5,
+      "proteins_value": 9.62,
+      "proteins": 9.62,
+      "energy_points": 4,
+      "is_water": 0,
+      "saturated_fat_ratio_value": 25,
+      "saturated_fat_ratio_points": 3,
+      "fruits_vegetables_nuts_colza_walnut_olive_oils_points": 0,
+      "sugars": 13.46,
+      "energy": 1611,
+      "fruits_vegetables_nuts_colza_walnut_olive_oils_value": 0,
+      "is_cheese": 0,
+      "sodium": 288,
+      "fruits_vegetables_nuts_colza_walnut_olive_oils": 0,
+      "sugars_points": 2,
+      "sugars_value": 13.46,
+      "saturated_fat_points": 1,
+      "sodium_value": 288,
+      "negative_points": 10,
+      "sodium_points": 3,
+      "fiber_value": 1.9,
+      "fiber_points": 1,
+      "energy_value": 1611,
+      "saturated_fat": 1.92
+    },
+    "completed_t": 1355184837,
+    "categories_lc": "en",
+    "code": "0737628064502",
+    "ingredients_debug": [
+      "RICE NOODLES ",
+      "(",
+      "(",
+      null,
+      null,
+      "RICE",
+      ",",
+      null,
+      null,
+      null,
+      " WATER)",
+      ",",
+      null,
+      null,
+      null,
+      " SEASONING PACKET ",
+      "(",
+      "(",
+      null,
+      null,
+      "PEANUT",
+      ",",
+      null,
+      null,
+      null,
+      " SUGAR",
+      ",",
+      null,
+      null,
+      null,
+      " SALT",
+      ",",
+      null,
+      null,
+      null,
+      " CORN STARCH",
+      ",",
+      null,
+      null,
+      null,
+      " SPICES ",
+      "[",
+      "[",
+      null,
+      null,
+      "CHILI",
+      ",",
+      null,
+      null,
+      null,
+      " CINNAMON",
+      ",",
+      null,
+      null,
+      null,
+      " PEPPER",
+      ",",
+      null,
+      null,
+      null,
+      " CUMIN",
+      ",",
+      null,
+      null,
+      null,
+      " CLOVE]",
+      ",",
+      null,
+      null,
+      null,
+      " HYDRDLYZED SOY PROTEIN",
+      ",",
+      null,
+      null,
+      null,
+      " GREEN ONIONS",
+      ",",
+      null,
+      null,
+      null,
+      " CITRIC ACID",
+      ",",
+      null,
+      null,
+      null,
+      " PEANUT OIL",
+      ",",
+      null,
+      null,
+      null,
+      " SESAME OIL",
+      ",",
+      null,
+      null,
+      null,
+      " ",
+      ":",
+      ":",
+      null,
+      null,
+      " NATURAL FLAVOR ",
+      ":",
+      ":",
+      null,
+      null,
+      " )."
+    ],
+    "completeness": 0.8,
+    "link": "",
+    "popularity_tags": [
+      "top-90-percent-scans-2019",
+      "top-95-percent-scans-2019",
+      "top-10000-it-scans-2019",
+      "top-50000-it-scans-2019",
+      "top-100000-it-scans-2019",
+      "top-country-it-scans-2019"
+    ],
+    "quantity_debug_tags": [],
+    "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Cereals and their products, Noodles, Rice Noodles",
+    "data_sources_tags": [
+      "databases",
+      "database-usda"
+    ],
+    "categories_properties_tags": [
+      "all-products",
+      "categories-known",
+      "agribalyse-food-code-unknown",
+      "agribalyse-proxy-food-code-unknown",
+      "ciqual-food-code-unknown",
+      "agribalyse-unknown"
+    ],
+    "image_front_small_url": "https://static.openfoodfacts.org/images/products/073/762/806/4502/front_en.6.200.jpg",
+    "nova_group_debug": " -- ingredients/en:salt : 3 -- ingredients/en:colour : 4",
+    "countries_hierarchy": [
+      "en:france",
+      "en:united-states"
+    ],
+    "editors_tags": [
+      "manu1400",
+      "upcbot",
+      "smartchef",
+      "openfoodfacts-contributors",
+      "usda-ndb-import",
+      "org-database-usda",
+      "andre",
+      "thierrym"
+    ],
+    "nutriscore_grade": "c",
+    "labels_prev_tags": [
+      "en:gluten-free"
+    ],
+    "sortkey": -98412418769,
+    "packaging_debug_tags": [],
+    "nutrition_data": "on",
+    "nova_group": 4,
+    "ingredients_text_with_allergens_en": "Noodle: rice, water. seasoning packet: peanut, sugar, hydrolyzed soy protein, green onion, corn maltodextrin, spice (including paprika), citric acid, sea salt, extractives of paprika (color), silicon dioxide (added to make free flowing), yeast extract.",
+    "product_name_en_debug_tags": [],
+    "additives_tags_n": null,
+    "amino_acids_prev_tags": [],
+    "packaging": "Cellophane,Carton",
+    "other_nutritional_substances_tags": [],
+    "ingredients_text_en_debug_tags": [],
+    "nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients_value": 0,
+    "product_name_en_imported": "Thai peanut noodle kit includes stir-fry rice noodles & thai peanut seasoning",
+    "quantity": "155 g",
+    "photographers_tags": [
+      "openfoodfacts-contributors",
+      "andre"
+    ],
+    "amino_acids_tags": [],
+    "image_front_url": "https://static.openfoodfacts.org/images/products/073/762/806/4502/front_en.6.400.jpg",
+    "nutrition_grades": "c",
+    "data_quality_tags": [
+      "en:ingredients-percent-analysis-ok",
+      "en:nutrition-value-very-high-for-category-sugars"
+    ],
+    "lang_debug_tags": [],
+    "labels_lc": "en",
+    "correctors": [
+      "andre",
+      "thierrym"
+    ],
+    "category_properties": {},
+    "nutrition_data_per_imported": "100g",
+    "nutrition_data_prepared_per": "100g",
+    "product_quantity": 155,
+    "ingredients": [
+      {
+        "rank": 1,
+        "percent_min": 7.69230769230769,
+        "percent_max": 100,
+        "text": "Noodle",
+        "has_sub_ingredients": "yes",
+        "id": "en:noodle"
+      },
+      {
+        "id": "en:water",
+        "vegetarian": "yes",
+        "text": "water",
+        "percent_max": 50,
+        "percent_min": 0,
+        "rank": 2,
+        "vegan": "yes"
+      },
+      {
+        "text": "seasoning packet",
+        "has_sub_ingredients": "yes",
+        "id": "en:seasoning packet",
+        "rank": 3,
+        "percent_min": 0,
+        "percent_max": 33.3333333333333
+      },
+      {
+        "percent_max": 25,
+        "percent_min": 0,
+        "rank": 4,
+        "vegan": "yes",
+        "id": "en:sugar",
+        "vegetarian": "yes",
+        "text": "sugar"
+      },
+      {
+        "percent_max": 20,
+        "percent_min": 0,
+        "rank": 5,
+        "vegan": "yes",
+        "id": "en:hydrolysed-soy-protein",
+        "vegetarian": "yes",
+        "text": "hydrolyzed soy protein"
+      },
+      {
+        "text": "green onion",
+        "vegetarian": "yes",
+        "id": "en:green-onion",
+        "vegan": "yes",
+        "rank": 6,
+        "percent_min": 0,
+        "percent_max": 16.6666666666667
+      },
+      {
+        "text": "corn maltodextrin",
+        "vegetarian": "yes",
+        "id": "en:corn-maltodextrin",
+        "vegan": "yes",
+        "rank": 7,
+        "percent_min": 0,
+        "percent_max": 14.2857142857143
+      },
+      {
+        "vegan": "yes",
+        "id": "en:spice",
+        "rank": 8,
+        "percent_max": 12.5,
+        "percent_min": 0,
+        "vegetarian": "yes",
+        "text": "spice",
+        "has_sub_ingredients": "yes"
+      },
+      {
+        "percent_min": 0,
+        "percent_max": 11.1111111111111,
+        "vegan": "yes",
+        "rank": 9,
+        "id": "en:e330",
+        "text": "citric acid",
+        "vegetarian": "yes"
+      },
+      {
+        "text": "sea salt",
+        "vegetarian": "yes",
+        "id": "en:sea-salt",
+        "vegan": "yes",
+        "rank": 10,
+        "percent_min": 0,
+        "percent_max": 10
+      },
+      {
+        "id": "en:paprika",
+        "processing": "en:extract",
+        "vegan": "yes",
+        "has_sub_ingredients": "yes",
+        "vegetarian": "yes",
+        "text": "paprika",
+        "percent_max": 9.09090909090909,
+        "percent_min": 0,
+        "rank": 11
+      },
+      {
+        "vegetarian": "yes",
+        "text": "silicon dioxide",
+        "has_sub_ingredients": "yes",
+        "rank": 12,
+        "percent_max": 8.33333333333333,
+        "percent_min": 0,
+        "id": "en:e551",
+        "vegan": "yes"
+      },
+      {
+        "id": "en:yeast-extract",
+        "text": "yeast extract",
+        "vegetarian": "yes",
+        "percent_min": 0,
+        "percent_max": 7.69230769230769,
+        "vegan": "yes",
+        "rank": 13
+      },
+      {
+        "percent_max": 100,
+        "percent_min": 7.69230769230769,
+        "vegan": "yes",
+        "id": "en:rice",
+        "vegetarian": "yes",
+        "text": "rice"
+      },
+      {
+        "id": "en:peanut",
+        "text": "peanut",
+        "vegetarian": "yes",
+        "percent_min": 0,
+        "percent_max": 33.3333333333333,
+        "vegan": "yes"
+      },
+      {
+        "vegan": "yes",
+        "percent_max": 12.5,
+        "percent_min": 0,
+        "vegetarian": "yes",
+        "text": "including paprika",
+        "id": "en:paprika"
+      },
+      {
+        "id": "en:colour",
+        "text": "color",
+        "percent_max": 9.09090909090909,
+        "percent_min": 0
+      },
+      {
+        "percent_max": 8.33333333333333,
+        "percent_min": 0,
+        "id": "en:added to make free flowing",
+        "text": "added to make free flowing"
+      }
+    ],
+    "labels_hierarchy": [
+      "en:gluten-free"
+    ],
+    "traces": "en:peanuts",
+    "informers": [
+      "andre",
+      "manu1400",
+      "thierrym"
+    ],
+    "serving_size_imported": "0.333 PACKAGE (52 g)",
+    "max_imgid": "5",
+    "traces_from_ingredients": "",
+    "brand_owner_imported": "Simply Asia Foods, Inc.",
+    "sources": [
+      {
+        "id": "usda-ndb",
+        "url": "https://api.nal.usda.gov/ndb/reports/?ndbno=45108002&type=f&format=json&api_key=DEMO_KEY",
+        "import_t": 1489067409,
+        "images": [],
+        "fields": [
+          "brands",
+          "countries"
+        ]
+      },
+      {
+        "name": "database-usda",
+        "id": "database-usda",
+        "manufacturer": null,
+        "import_t": 1587581231,
+        "url": null,
+        "fields": [
+          "product_name_en",
+          "categories",
+          "brand_owner",
+          "data_sources",
+          "nutrition_data_per",
+          "serving_size",
+          "ingredients_text_en",
+          "nutrients.calcium_unit",
+          "nutrients.calcium_value",
+          "nutrients.carbohydrates_value",
+          "nutrients.cholesterol_unit",
+          "nutrients.cholesterol_value",
+          "nutrients.energy_value",
+          "nutrients.energy-kcal_value",
+          "nutrients.fat_value",
+          "nutrients.fiber_value",
+          "nutrients.iron_unit",
+          "nutrients.iron_value",
+          "nutrients.proteins_value",
+          "nutrients.salt_unit",
+          "nutrients.salt_value",
+          "nutrients.saturated-fat_value",
+          "nutrients.sugars_value",
+          "nutrients.trans-fat_unit",
+          "nutrients.trans-fat_value",
+          "nutrients.vitamin-a_unit",
+          "nutrients.vitamin-a_value",
+          "nutrients.vitamin-c_unit",
+          "nutrients.vitamin-c_value"
+        ],
+        "images": []
+      }
+    ],
+    "categories_hierarchy": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:noodles",
+      "en:Rice Noodles"
+    ],
+    "image_url": "https://static.openfoodfacts.org/images/products/073/762/806/4502/front_en.6.400.jpg",
+    "ingredients_text_en": "Noodle: rice, water. seasoning packet: peanut, sugar, hydrolyzed soy protein, green onion, corn maltodextrin, spice (including paprika), citric acid, sea salt, extractives of paprika (color), silicon dioxide (added to make free flowing), yeast extract.",
+    "fruits-vegetables-nuts_100g_estimate": 0,
+    "categories_old": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Cereals and their products, Noodles, Rice Noodles",
+    "labels_tags": [
+      "en:gluten-free"
+    ],
+    "image_nutrition_small_url": "https://static.openfoodfacts.org/images/products/073/762/806/4502/nutrition_en.12.200.jpg",
+    "last_editor": "org-database-usda",
+    "image_ingredients_small_url": "https://static.openfoodfacts.org/images/products/073/762/806/4502/ingredients_en.10.200.jpg",
+    "emb_codes_orig": "",
+    "last_image_t": 1345799925,
+    "data_quality_info_tags": [
+      "en:ingredients-percent-analysis-ok"
+    ],
+    "serving_size_debug_tags": [],
+    "generic_name_en": "Rice Noodles",
+    "ingredients_from_or_that_may_be_from_palm_oil_n": 0,
+    "minerals_prev_tags": [],
+    "scans_n": 3,
+    "states": "en:to-be-checked, en:complete, en:nutrition-facts-completed, en:ingredients-completed, en:expiration-date-to-be-completed, en:packaging-code-to-be-completed, en:characteristics-completed, en:categories-completed, en:brands-completed, en:packaging-completed, en:quantity-completed, en:product-name-completed, en:photos-validated, en:photos-uploaded",
+    "additives_original_tags": [
+      "en:e330"
+    ],
+    "correctors_tags": [
+      "andre",
+      "thierrym",
+      "usda-ndb-import",
+      "smartchef",
+      "org-database-usda"
+    ],
+    "purchase_places_tags": [],
+    "complete": 1,
+    "ingredients_that_may_be_from_palm_oil_n": 0,
+    "additives_n": 1,
+    "image_front_thumb_url": "https://static.openfoodfacts.org/images/products/073/762/806/4502/front_en.6.100.jpg",
+    "image_nutrition_url": "https://static.openfoodfacts.org/images/products/073/762/806/4502/nutrition_en.12.400.jpg",
+    "additives_tags": [
+      "en:e330"
+    ],
+    "entry_dates_tags": [
+      "2012-08-24",
+      "2012-08",
+      "2012"
+    ],
+    "nutrition_data_prepared": "",
+    "traces_debug_tags": [],
+    "selected_images": {
+      "nutrition": {
+        "thumb": {
+          "en": "https://static.openfoodfacts.org/images/products/073/762/806/4502/nutrition_en.12.100.jpg"
+        },
+        "small": {
+          "en": "https://static.openfoodfacts.org/images/products/073/762/806/4502/nutrition_en.12.200.jpg"
+        },
+        "display": {
+          "en": "https://static.openfoodfacts.org/images/products/073/762/806/4502/nutrition_en.12.400.jpg"
+        }
+      },
+      "ingredients": {
+        "display": {
+          "en": "https://static.openfoodfacts.org/images/products/073/762/806/4502/ingredients_en.10.400.jpg"
+        },
+        "thumb": {
+          "en": "https://static.openfoodfacts.org/images/products/073/762/806/4502/ingredients_en.10.100.jpg"
+        },
+        "small": {
+          "en": "https://static.openfoodfacts.org/images/products/073/762/806/4502/ingredients_en.10.200.jpg"
+        }
+      },
+      "front": {
+        "display": {
+          "en": "https://static.openfoodfacts.org/images/products/073/762/806/4502/front_en.6.400.jpg"
+        },
+        "small": {
+          "en": "https://static.openfoodfacts.org/images/products/073/762/806/4502/front_en.6.200.jpg"
+        },
+        "thumb": {
+          "en": "https://static.openfoodfacts.org/images/products/073/762/806/4502/front_en.6.100.jpg"
+        }
+      }
+    },
+    "nutrient_levels": {
+      "salt": "moderate",
+      "saturated-fat": "moderate",
+      "fat": "moderate",
+      "sugars": "high"
+    },
+    "data_quality_bugs_tags": [],
+    "ingredients_text": "Noodle: rice, water. seasoning packet: peanut, sugar, hydrolyzed soy protein, green onion, corn maltodextrin, spice (including paprika), citric acid, sea salt, extractives of paprika (color), silicon dioxide (added to make free flowing), yeast extract.",
+    "nutrition_data_prepared_per_debug_tags": [],
+    "categories_imported": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Cereals and their products, Noodles",
+    "pnns_groups_2": "Cereals",
+    "popularity_key": -99999999999,
+    "origins_old": "Thailand",
+    "stores": "",
+    "labels": "Gluten-free",
+    "ingredients_n_tags": [
+      "18",
+      "11-20"
+    ],
+    "states_tags": [
+      "en:to-be-checked",
+      "en:complete",
+      "en:nutrition-facts-completed",
+      "en:ingredients-completed",
+      "en:expiration-date-to-be-completed",
+      "en:packaging-code-to-be-completed",
+      "en:characteristics-completed",
+      "en:categories-completed",
+      "en:brands-completed",
+      "en:packaging-completed",
+      "en:quantity-completed",
+      "en:product-name-completed",
+      "en:photos-validated",
+      "en:photos-uploaded"
+    ],
+    "lc": "en",
+    "languages_tags": [
+      "en:english",
+      "en:1"
+    ],
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:noodles",
+      "en:rice-noodles"
+    ],
+    "serving_size": "0.333 PACKAGE (52 g)",
+    "additives_old_n": 2,
+    "last_image_dates_tags": [
+      "2012-08-24",
+      "2012-08",
+      "2012"
+    ],
+    "purchase_places": "",
+    "_id": "0737628064502",
+    "unknown_nutrients_tags": [],
+    "stores_debug_tags": [],
+    "data_sources_imported": "Databases, database-usda",
+    "nutriscore_score": 4,
+    "link_debug_tags": [],
+    "misc_tags": [
+      "en:nutrition-fruits-vegetables-nuts-estimate-from-ingredients",
+      "en:nutrition-all-nutriscore-values-known",
+      "en:nutriscore-computed"
+    ],
+    "update_key": "agribalyse1109",
+    "brands": "Thai Kitchen,Simply Asia",
+    "image_ingredients_thumb_url": "https://static.openfoodfacts.org/images/products/073/762/806/4502/ingredients_en.10.100.jpg",
+    "editors": [
+      "",
+      "thierrym",
+      "manu1400",
+      "andre",
+      "upcbot"
+    ],
+    "allergens_from_user": "(en) ",
+    "nutrition_data_prepared_per_imported": "100g",
+    "serving_quantity": 52,
+    "allergens_hierarchy": [],
+    "image_small_url": "https://static.openfoodfacts.org/images/products/073/762/806/4502/front_en.6.200.jpg",
+    "vitamins_tags": [],
+    "emb_codes_20141016": "",
+    "additives_prev_original_tags": [
+      "en:e330"
+    ],
+    "interface_version_modified": "20120622",
+    "nucleotides_prev_tags": [],
+    "nutriments": {
+      "cholesterol_unit": "mg",
+      "carbohydrates_100g": 71.15,
+      "saturated-fat_100g": 1.92,
+      "vitamin-a": 0.0001155,
+      "salt_100g": 0.72,
+      "trans-fat": 0,
+      "carbohydrates": 71.15,
+      "cholesterol": 0,
+      "vitamin-a_serving": 0.0000601,
+      "energy-kcal_100g": 385,
+      "cholesterol_100g": 0,
+      "nutrition-score-fr_serving": 4,
+      "calcium_unit": "mg",
+      "fat_serving": 4,
+      "carbohydrates_serving": 37,
+      "proteins_value": 9.62,
+      "sodium_unit": "mg",
+      "fiber_100g": 1.9,
+      "calcium_100g": 0.038,
+      "vitamin-a_unit": "IU",
+      "salt_unit": "mg",
+      "cholesterol_value": 0,
+      "vitamin-c_value": 0,
+      "sugars_serving": 7,
+      "saturated-fat_serving": 0.998,
+      "nutrition-score-fr_100g": 4,
+      "iron_100g": 0.00069,
+      "vitamin-c": 0,
+      "fiber_value": 1.9,
+      "vitamin-a_100g": 0.0001155,
+      "energy-kcal_serving": 200,
+      "energy_value": 385,
+      "vitamin-c_unit": "mg",
+      "carbohydrates_unit": "g",
+      "sugars_value": 13.46,
+      "fat_value": 7.69,
+      "sodium_value": 288,
+      "sugars_100g": 13.46,
+      "salt_serving": 0.374,
+      "fat_unit": "g",
+      "vitamin-c_serving": 0,
+      "nova-group_100g": 4,
+      "energy_serving": 838,
+      "sodium": 0.288,
+      "salt": 0.72,
+      "nova-group": 4,
+      "vitamin-a_value": 385,
+      "calcium_serving": 0.0198,
+      "sodium_serving": 0.15,
+      "sodium_100g": 0.288,
+      "proteins_100g": 9.62,
+      "proteins_unit": "g",
+      "iron_serving": 0.000359,
+      "saturated-fat": 1.92,
+      "fat_100g": 7.69,
+      "calcium": 0.038,
+      "sugars": 13.46,
+      "energy": 1611,
+      "cholesterol_serving": 0,
+      "vitamin-c_100g": 0,
+      "energy_100g": 1611,
+      "carbohydrates_value": 71.15,
+      "proteins": 9.62,
+      "salt_value": 720,
+      "fiber": 1.9,
+      "trans-fat_value": 0,
+      "energy_unit": "kcal",
+      "saturated-fat_unit": "g",
+      "fiber_serving": 0.988,
+      "sugars_unit": "g",
+      "nova-group_serving": 4,
+      "fiber_unit": "g",
+      "fat": 7.69,
+      "trans-fat_unit": "g",
+      "proteins_serving": 5,
+      "trans-fat_100g": 0,
+      "iron_value": 0.69,
+      "trans-fat_serving": 0,
+      "energy-kcal": 385,
+      "saturated-fat_value": 1.92,
+      "energy-kcal_value": 385,
+      "energy-kcal_unit": "kcal",
+      "calcium_value": 38,
+      "nutrition-score-fr": 4,
+      "iron": 0.00069,
+      "iron_unit": "mg",
+      "fruits-vegetables-nuts-estimate-from-ingredients_100g": 0
+    },
+    "sources_fields": {
+      "org-database-usda": {
+        "fdc_category": "All Noodles",
+        "publication_date": "2019-12-06T00:00:00Z",
+        "available_date": "2019-09-25T00:00:00Z",
+        "fdc_id": "628190",
+        "modified_date": "2019-09-25T00:00:00Z",
+        "fdc_data_source": "LI"
+      }
+    },
+    "emb_codes_debug_tags": [],
+    "nutrition_data_per_debug_tags": [],
+    "stores_tags": [],
+    "nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients": 1,
+    "languages": {
+      "en:english": 6
+    },
+    "last_modified_t": 1587581231,
+    "product_name": "Thai peanut noodle kit includes stir-fry rice noodles & thai peanut seasoning",
+    "brands_debug_tags": [],
+    "pnns_groups_1_tags": [
+      "cereals-and-potatoes",
+      "known"
+    ],
+    "nutrient_levels_tags": [
+      "en:fat-in-moderate-quantity",
+      "en:saturated-fat-in-moderate-quantity",
+      "en:sugars-in-high-quantity",
+      "en:salt-in-moderate-quantity"
+    ],
+    "nova_groups": "4",
+    "traces_hierarchy": [
+      "en:peanuts"
+    ],
+    "origins_hierarchy": [
+      "en:thailand"
+    ],
+    "image_thumb_url": "https://static.openfoodfacts.org/images/products/073/762/806/4502/front_en.6.100.jpg",
+    "nucleotides_tags": [],
+    "languages_codes": {
+      "en": 6
+    },
+    "nova_groups_tags": [
+      "en:4-ultra-processed-food-and-drink-products"
+    ],
+    "minerals_tags": [],
+    "nutrition_grade_fr": "c",
+    "data_sources": "Databases, database-usda",
+    "debug_param_sorted_langs": [
+      "en"
+    ],
+    "ingredients_from_palm_oil_tags": [],
+    "ingredients_original_tags": [
+      "en:noodle",
+      "en:water",
+      "en:seasoning packet",
+      "en:sugar",
+      "en:hydrolysed-soy-protein",
+      "en:green-onion",
+      "en:corn-maltodextrin",
+      "en:spice",
+      "en:e330",
+      "en:sea-salt",
+      "en:paprika",
+      "en:e551",
+      "en:yeast-extract",
+      "en:rice",
+      "en:peanut",
+      "en:paprika",
+      "en:colour",
+      "en:added to make free flowing"
+    ],
+    "purchase_places_debug_tags": [],
+    "lang": "en",
+    "ingredients_text_with_allergens": "Noodle: rice, water. seasoning packet: peanut, sugar, hydrolyzed soy protein, green onion, corn maltodextrin, spice (including paprika), citric acid, sea salt, extractives of paprika (color), silicon dioxide (added to make free flowing), yeast extract.",
+    "origins_tags": [
+      "en:thailand"
+    ],
+    "ingredients_hierarchy": [
+      "en:noodle",
+      "en:dough",
+      "en:water",
+      "en:seasoning packet",
+      "en:sugar",
+      "en:hydrolysed-soy-protein",
+      "en:protein",
+      "en:vegetable-protein",
+      "en:hydrolysed-vegetable-protein",
+      "en:soy-protein",
+      "en:green-onion",
+      "en:vegetable",
+      "en:root-vegetable",
+      "en:onion",
+      "en:corn-maltodextrin",
+      "en:maltodextrins",
+      "en:spice",
+      "en:e330",
+      "en:sea-salt",
+      "en:salt",
+      "en:paprika",
+      "en:seed",
+      "en:pepper",
+      "en:e551",
+      "en:yeast-extract",
+      "en:yeast",
+      "en:rice",
+      "en:peanut",
+      "en:nut",
+      "en:colour",
+      "en:added to make free flowing"
+    ],
+    "countries_tags": [
+      "en:france",
+      "en:united-states"
+    ],
+    "known_ingredients_n": 29,
+    "ingredients_from_palm_oil_n": 0,
+    "nutrition_score_beverage": 0,
+    "brands_tags": [
+      "thai-kitchen",
+      "simply-asia"
+    ],
+    "created_t": 1345799269,
+    "ingredients_tags": [
+      "en:noodle",
+      "en:dough",
+      "en:water",
+      "en:seasoning-packet",
+      "en:sugar",
+      "en:hydrolysed-soy-protein",
+      "en:protein",
+      "en:vegetable-protein",
+      "en:hydrolysed-vegetable-protein",
+      "en:soy-protein",
+      "en:green-onion",
+      "en:vegetable",
+      "en:root-vegetable",
+      "en:onion",
+      "en:corn-maltodextrin",
+      "en:maltodextrins",
+      "en:spice",
+      "en:e330",
+      "en:sea-salt",
+      "en:salt",
+      "en:paprika",
+      "en:seed",
+      "en:pepper",
+      "en:e551",
+      "en:yeast-extract",
+      "en:yeast",
+      "en:rice",
+      "en:peanut",
+      "en:nut",
+      "en:colour",
+      "en:added-to-make-free-flowing"
+    ],
+    "pnns_groups_2_tags": [
+      "cereals",
+      "known"
+    ],
+    "ingredients_text_en_imported": "Noodle: rice, water. seasoning packet: peanut, sugar, hydrolyzed soy protein, green onion, corn maltodextrin, spice (including paprika), citric acid, sea salt, extractives of paprika (color), silicon dioxide (added to make free flowing), yeast extract.",
+    "creator": "openfoodfacts-contributors",
+    "image_nutrition_thumb_url": "https://static.openfoodfacts.org/images/products/073/762/806/4502/nutrition_en.12.100.jpg",
+    "generic_name": "Rice Noodles",
+    "ingredients_that_may_be_from_palm_oil_tags": [],
+    "origins_lc": "en",
+    "checkers": [],
+    "categories_properties": {},
+    "cities_tags": [],
+    "images": {
+      "1": {
+        "sizes": {
+          "100": {
+            "h": 71,
+            "w": 100
+          },
+          "400": {
+            "h": 284,
+            "w": 400
+          },
+          "full": {
+            "h": 1089,
+            "w": 1536
+          }
+        },
+        "uploaded_t": 1345799270,
+        "uploader": "openfoodfacts-contributors"
+      },
+      "2": {
+        "sizes": {
+          "100": {
+            "w": 72,
+            "h": 100
+          },
+          "400": {
+            "h": 400,
+            "w": 289
+          },
+          "full": {
+            "h": 1812,
+            "w": 1311
+          }
+        },
+        "uploader": "andre",
+        "uploaded_t": 1345799309
+      },
+      "3": {
+        "sizes": {
+          "100": {
+            "w": 100,
+            "h": 72
+          },
+          "400": {
+            "h": 289,
+            "w": 400
+          },
+          "full": {
+            "w": 1281,
+            "h": 927
+          }
+        },
+        "uploaded_t": 1345799558,
+        "uploader": "andre"
+      },
+      "4": {
+        "sizes": {
+          "100": {
+            "w": 100,
+            "h": 72
+          },
+          "400": {
+            "w": 400,
+            "h": 289
+          },
+          "full": {
+            "h": 927,
+            "w": 1281
+          }
+        },
+        "uploader": "andre",
+        "uploaded_t": 1345799666
+      },
+      "5": {
+        "uploader": "andre",
+        "uploaded_t": 1345799925,
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 54
+          },
+          "400": {
+            "w": 216,
+            "h": 400
+          },
+          "full": {
+            "w": 870,
+            "h": 1611
+          }
+        }
+      },
+      "nutrition_en": {
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 54
+          },
+          "200": {
+            "w": 108,
+            "h": 200
+          },
+          "400": {
+            "h": 400,
+            "w": 216
+          },
+          "full": {
+            "h": 1611,
+            "w": 870
+          }
+        },
+        "imgid": "5",
+        "rev": "12",
+        "white_magic": null,
+        "normalize": "checked",
+        "geometry": "0x0--4--4"
+      },
+      "ingredients_en": {
+        "geometry": "0x0--3--3",
+        "rev": "10",
+        "normalize": "checked",
+        "white_magic": null,
+        "sizes": {
+          "100": {
+            "h": 72,
+            "w": 100
+          },
+          "200": {
+            "h": 145,
+            "w": 200
+          },
+          "400": {
+            "w": 400,
+            "h": 289
+          },
+          "full": {
+            "w": 1281,
+            "h": 927
+          }
+        },
+        "imgid": "4"
+      },
+      "front_en": {
+        "imgid": "2",
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 72
+          },
+          "200": {
+            "w": 145,
+            "h": 200
+          },
+          "400": {
+            "w": 289,
+            "h": 400
+          },
+          "full": {
+            "w": 1311,
+            "h": 1812
+          }
+        },
+        "rev": "6",
+        "normalize": null,
+        "white_magic": null,
+        "geometry": "0x0--4--4"
+      },
+      "front": {
+        "imgid": "2",
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 72
+          },
+          "200": {
+            "w": 145,
+            "h": 200
+          },
+          "400": {
+            "w": 289,
+            "h": 400
+          },
+          "full": {
+            "w": 1311,
+            "h": 1812
+          }
+        },
+        "rev": "6",
+        "normalize": null,
+        "white_magic": null,
+        "geometry": "0x0--4--4"
+      },
+      "ingredients": {
+        "geometry": "0x0--3--3",
+        "rev": "10",
+        "normalize": "checked",
+        "white_magic": null,
+        "sizes": {
+          "100": {
+            "h": 72,
+            "w": 100
+          },
+          "200": {
+            "h": 145,
+            "w": 200
+          },
+          "400": {
+            "w": 400,
+            "h": 289
+          },
+          "full": {
+            "w": 1281,
+            "h": 927
+          }
+        },
+        "imgid": "4"
+      },
+      "nutrition": {
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 54
+          },
+          "200": {
+            "w": 108,
+            "h": 200
+          },
+          "400": {
+            "h": 400,
+            "w": 216
+          },
+          "full": {
+            "h": 1611,
+            "w": 870
+          }
+        },
+        "imgid": "5",
+        "rev": "12",
+        "white_magic": null,
+        "normalize": "checked",
+        "geometry": "0x0--4--4"
+      }
+    },
+    "manufacturing_places_tags": [],
+    "allergens": "",
+    "new_additives_n": 1,
+    "interface_version_created": "20120622",
+    "brand_owner": "Simply Asia Foods, Inc.",
+    "informers_tags": [
+      "andre",
+      "manu1400",
+      "thierrym",
+      "upcbot",
+      "smartchef",
+      "org-database-usda"
+    ],
+    "no_nutrition_data": "",
+    "countries": "France, United States",
+    "unknown_ingredients_n": 2,
+    "allergens_tags": [],
+    "traces_from_user": "(en) en:peanuts",
+    "nutrition_grades_tags": [
+      "c"
+    ],
+    "additives_debug_tags": [],
+    "expiration_date": "",
+    "ingredients_text_debug": "RICE NOODLES (RICE, WATER), SEASONING PACKET (PEANUT, SUGAR, SALT, CORN STARCH, SPICES [CHILI, CINNAMON, PEPPER, CUMIN, CLOVE], HYDRDLYZED SOY PROTEIN, GREEN ONIONS, CITRIC ACID, PEANUT OIL, SESAME OIL, : NATURAL FLAVOR : ).",
+    "lc_imported": "en",
+    "photographers": [
+      "andre"
+    ]
+  }
+}
